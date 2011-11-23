@@ -1,0 +1,1 @@
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControlContent\obj\x86\Debug\ResolveAssemblyReference.cache

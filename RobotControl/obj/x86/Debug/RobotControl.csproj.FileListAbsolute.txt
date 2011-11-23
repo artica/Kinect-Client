@@ -1,0 +1,7 @@
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControl\bin\x86\Debug\RobotControl.exe
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControl\bin\x86\Debug\RobotControl.pdb
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControl\obj\x86\Debug\RobotControl.exe
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControl\obj\x86\Debug\RobotControl.pdb
+C:\Users\jsipko.REDMOND\Documents\KinectSDKSamples\Managed\RobotControl\RobotControl\bin\x86\Debug\Content\gamefont.xnb
